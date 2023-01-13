@@ -1,7 +1,17 @@
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
+### catch me if you can!(　^^)⊃━☆゜.*　
+- 🔭 I’m currently working on ...  
+ 嫌忌扉・・・自分の部屋を守るために、扉が開くとブザーが鳴るようにしました  
+ NEXTゆくら・・・DiscordBotゆくらを育成中です  
+- 🌱 I’m currently learning ...  
+ TCP/IPを中心としたインターネットの勉強をしています・・・  
+ 基本的な設計ができるようにCADの使い方と機構学の基本を勉強しています・・・  
+- 🤔 I’m looking for help with ...  
+ MicroPythonやPythonが難しくて叫んでいます・・・  
+
+
+
+
+
 <!--
 **Yukura-dev/Yukura-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
