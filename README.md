@@ -1,4 +1,7 @@
 ### catch me if you can!(　^^)⊃━☆゜.*　
+    #1) Respect the privacy of others.
+    #2) Think before you type.
+    #3) With great power comes great responsibility.
 - 🔭 I’m currently working on ...  
  嫌忌扉・・・自分の部屋を守るために、扉が開くとブザーが鳴るようにしました  
  NEXTゆくら・・・DiscordBotゆくらを育成中です  
