@@ -9,7 +9,7 @@
 | :--- | :--- | :--- |
 | 2025 | **Gabaison Vol.7 Summer** | **Grand Prize (Best Award)** |
 | 2025 | **Kyushu Kosen Hackathon in Hakata** | **Grand Prize**, TwoGate Award, Management Award |
-| 2025 | **WiCON 2024** | **Grand Prize** |
+| 2025 | **WiCON 2024** | **Grand Prize (Best Award)** |
 | 2025 | **TwoGate DevCamp 2025** | Special Award |
 | 2024 | **Mitoh Junior** | Selected Project Member |
 | 2024 | **ICTSC 2024 Qualifiers** | Ranked 30th |
