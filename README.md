@@ -2,14 +2,21 @@
     #1) Respect the privacy of others.
     #2) Think before you type.
     #3) With great power comes great responsibility.
-- 🔭 I’m currently working on ...  
- 嫌忌扉・・・自分の部屋を守るために、扉が開くとブザーが鳴るようにしました  
- NEXTゆくら・・・DiscordBotゆくらを育成中です  
-- 🌱 I’m currently learning ...  
- TCP/IPを中心としたインターネットの勉強をしています・・・  
- 基本的な設計ができるようにCADの使い方と機構学の基本を勉強しています・・・  
-- 🤔 I’m looking for help with ...  
- MicroPythonやPythonが難しくて叫んでいます・・・  
+---
+
+## 🏆 Major Achievements & Experience
+| Year | Event | Award / Role |
+| :--- | :--- | :--- |
+| 2025 | **Gabaison Vol.7 Summer** | **Grand Prize (Best Award)** |
+| 2025 | **Kyushu Kosen Hackathon in Hakata** | **Grand Prize**, TwoGate Award, Management Award |
+| 2025 | **WiCON 2024** | **Grand Prize** |
+| 2025 | **TwoGate DevCamp 2025** | Special Award |
+| 2024 | **Mitoh Junior** | Selected Project Member |
+| 2024 | **ICTSC 2024 Qualifiers** | Ranked 30th |
+| 2024 | **1st Kyushu Kosen Hackathon** | **Grand Prize (Best Award)** |
+| 2023 | **Kosen Robocon** | Robot Design, Team members |
+
+---
 
 
 
